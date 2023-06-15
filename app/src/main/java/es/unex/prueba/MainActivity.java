@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
     private ActivityMainBinding binding;
 
     //Tarea de implementacion 1 CU20
+    //Tarea de implementacion 2 CU20
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
