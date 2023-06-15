@@ -26,6 +26,8 @@ public class MainActivity extends AppCompatActivity {
     //Tarea de implementacion 1 CU20
     //Tarea de implementacion 2 CU20
 
+    // implementacion cu21 2
+    // implemenatcion cu21 1
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
