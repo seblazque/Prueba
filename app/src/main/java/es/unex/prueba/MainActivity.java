@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
     private AppBarConfiguration appBarConfiguration;
     private ActivityMainBinding binding;
 
+    //Tarea de implementacion cu21 1
     //Tarea de implementacion cu21 2
 
     @Override
